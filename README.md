@@ -93,7 +93,3 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 - [XRPL Documentation](https://xrpl.org/)
 - [xrpl-nft-fetcher](https://github.com/joshuahamsa/xrpl-nft-fetcher) – Repository to create the SQLite database and table schema.
-
----
-
-Feel free to adjust any sections as necessary for your project specifics.
