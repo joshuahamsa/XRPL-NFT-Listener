@@ -60,7 +60,7 @@ node listener.js <issuer_to_watch> <collection_taxon>
 **Example:**
 
 ```bash
-node listener.js rCE7uRtdNRmmiXst6DQiaUZnGWcPNT4Sh 3
+node listener.js rLfgoMintj3KBcs4s2XKtquvDwEte2kYfJ 1337
 ```
 
 ## How It Works
